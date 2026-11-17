@@ -1,0 +1,14 @@
+{
+  "name": "badminton-draw-check",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "用无头 Chrome 自检羽毛球抽签页面的可视化与二维码",
+  "scripts": {
+    "check": "node check.mjs"
+  },
+  "dependencies": {
+    "jsqr": "^1.4.0",
+    "pngjs": "^7.0.0"
+  }
+}
