@@ -1,5 +1,7 @@
 # 羽毛球抽签 · 电子分组
 
+在线使用：**https://pilotphil.github.io/badminton-chouqian/**
+
 一个手机端优先的羽毛球电子抽签网页：录入名单 → 一键随机分组 → 生成二维码 / 分组海报分享给球友。
 
 纯前端静态页面，无需后端、无需构建，双击 `index.html` 就能用。
@@ -73,7 +75,9 @@ tools/              开发自检脚本，可整目录删除，不影响网页运
 
 ## 部署
 
-把这个目录下的 `index.html`、`styles.css`、`app.js`、`vendor/` 上传到任意静态托管即可（GitHub Pages、Vercel、Netlify、Nginx、对象存储…），不需要 Node 环境。
+在线站点由 GitHub Pages 的「分支部署」提供：仓库 `main` 分支根目录即网站内容，推送后自动发布。
+
+换到自己的托管也很简单：把 `index.html`、`styles.css`、`app.js`、`vendor/` 上传到任意静态托管即可（GitHub Pages、Vercel、Netlify、Nginx、对象存储…），不需要 Node 环境。`.nojekyll` 用于告诉 GitHub Pages 不要走 Jekyll 处理。
 
 ## 开发自检
 
