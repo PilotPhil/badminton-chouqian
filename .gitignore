@@ -5,3 +5,6 @@ tools/out/
 .DS_Store
 Thumbs.db
 *.log
+
+# macOS AppleDouble 元数据（外置盘）
+._*

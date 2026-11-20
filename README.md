@@ -1,6 +1,8 @@
 # 羽毛球抽签 · 电子分组
 
-在线使用：**https://pilotphil.github.io/badminton-chouqian/**
+在线使用：**<https://pilotphil.github.io/badminton-chouqian/>**
+
+个人主页入口：**<https://pilotphil.github.io/#other>**（主页「其他」栏目）
 
 一个手机端优先的羽毛球电子抽签网页：录入名单 → 一键随机分组 → 生成二维码 / 分组海报分享给球友。
 

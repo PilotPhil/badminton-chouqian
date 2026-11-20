@@ -113,6 +113,10 @@ input, textarea { -webkit-appearance: none; appearance: none; }
 
 .brand { display: flex; align-items: center; gap: 11px; min-width: 0; }
 
+.topbar-actions { display: flex; align-items: center; gap: 8px; }
+
+a.icon-btn { text-decoration: none; }
+
 .logo {
   width: 44px; height: 44px;
   flex: 0 0 44px;
